@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amolpatial
-- 👀 I’m interested in software developer role
-- 🌱 I’m currently learning web designing
+-FULL STACK DEVELOPER
+
 
 <!---
 amolpatial/amolpatial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
