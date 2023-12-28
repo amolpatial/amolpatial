@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @amolpatial
--FULL STACK DEVELOPER
+-A.I enthusiast
+-Frontend Develper
 
 
 <!---
